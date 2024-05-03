@@ -1,0 +1,11 @@
+argparse
+torch
+numpy
+pandas
+transformers
+scikit-learn
+joblib
+pyyaml
+nltk
+sentence_transformers
+snorkel
