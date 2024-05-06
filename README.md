@@ -23,9 +23,9 @@ The goal of this project is to reproduce the methodology outlined in the paper b
 ### Install Dependencies
 * Trining using GPU (CUDA), code included in final project notebook
 * Clone this github repo in colab directly, this repo contains important changes from the original key class repo which will be used to run mimic data:
- * helper.py: contains additional functions mainly for processing MIMIC dataset and handling labels
- * yaml files in config_files: tweaked original example config to use for training
- * label model to categorize data
+  * helper.py: contains additional functions mainly for processing MIMIC dataset and handling labels
+  * yaml files in config_files: tweaked original example config to use for training
+  * label model to categorize data
 * package dependencies in requirements.txt
 
 ### Model Training 
